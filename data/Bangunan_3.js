@@ -1,0 +1,1 @@
+var json_Bangunan_3 = {"type":"FeatureCollection","name":"Bangunan_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
